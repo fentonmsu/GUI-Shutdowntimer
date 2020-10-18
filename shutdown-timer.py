@@ -31,5 +31,4 @@ insert_time_entry.pack()
 enter_time_button = Button(main, text='Enter', command=starttimer)
 enter_time_button.pack()
 
-
 main.mainloop()
